@@ -2,23 +2,13 @@
 # in the root directory
 
 work:
-  - category: New York City
+  - category: General Assembly Projects
     items:
-      - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
-        image: /images/NYC2.jpg
-      - item: example2.html
-        image: /images/NYC3.jpg
-      - item: example3.html
+      - item: minesweeper.html
+        image: /112008149/191894150-810285ee-fcfd-45c2-bace-91ad30bddc08.png
+      - item: cookbook.html
+        image: /112008149/195816547-727aec54-d97d-41b7-8877-edffc0eb0edf.png
+      - item: goaltracker.html
+        image: /112008149/199884868-a1294320-2dc4-49e7-a96c-54ce8fe2e45f.png
+      - item: placeholder.html
         image: /images/NYC4.jpg
-  - category: Los Angeles
-    items:
-      - item: example.html
-        image: /images/LA1.jpg
-      - item: example.html
-        image: /images/LA2.jpg
-      - item: example2.html
-        image: /images/LA3.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
