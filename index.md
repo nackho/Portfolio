@@ -4,9 +4,9 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
-background_image: /images/background.jpeg
+banner_title: nicks portfolio
+banner_subtitle: a place for all my work to gather
+background_image: <img src="https://img.freepik.com/free-photo/white-wooden-texture-flooring-background_53876-63634.jpg?w=996&t=st=1669608906~exp=1669609506~hmac=dd7cf29a399b425fe0c09da8a2697fba0f2cc542f598e7c016c056a9cd2b6498">
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 
@@ -41,16 +41,11 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### hi, i'm **nick**.
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### **junior frontend developer**.
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+i **design** and **code** aesthetically simple things, and i would love to see you bring it to life.
   
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+since my journey into web design in 2022, my focus has landed on **inclusive design** within **frontend development**. i have gained an obsessive desire for producing code that ensures ease of **readability** and **refactorability** for future collaborators.
