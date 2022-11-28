@@ -209,11 +209,11 @@ custom styles adapted from Twenty by HTML5 Up
 
 	.image:before {
 		content: '';
-		height: 200px;
+		height: 100px;
 		left: 0;
 		position: absolute;
 		top: 0;
-		width: 150px;
+		width: 100px;
 	}
 
 	.image.fit {
@@ -233,6 +233,7 @@ custom styles adapted from Twenty by HTML5 Up
 		.image.featured img {
 			display: block;
 			width: 100%;
+			height: 200px;
 		}
 
 /* Icon */
