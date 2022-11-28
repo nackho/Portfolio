@@ -5,10 +5,10 @@ work:
   - category: General Assembly Projects
     items:
       - item: minesweeper.html
-        image: /112008149/191894150-810285ee-fcfd-45c2-bace-91ad30bddc08.png
+        image: /images/ms.png
       - item: cookbook.html
-        image: /112008149/195816547-727aec54-d97d-41b7-8877-edffc0eb0edf.png
+        image: /images/nk.png
       - item: goaltracker.html
-        image: /112008149/199884868-a1294320-2dc4-49e7-a96c-54ce8fe2e45f.png
+        image: /images/gt.png
       - item: placeholder.html
         image: /images/NYC4.jpg

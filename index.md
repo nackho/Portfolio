@@ -6,7 +6,8 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: nicks portfolio
 banner_subtitle: frontend developer
-background_image: ![](https://img.freepik.com/free-photo/white-wooden-texture-flooring-background_53876-63634.jpg?w%3D996%26t%3Dst%3D1669608906~exp%3D1669609506~hmac%3Ddd7cf29a399b425fe0c09da8a2697fba0f2cc542f598e7c016c056a9cd2b6498)
+background_image: /images/wood1.jpg
+
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 
