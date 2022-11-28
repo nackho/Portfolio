@@ -5,10 +5,10 @@ work:
   - category: General Assembly Projects
     items:
       - item: minesweeper.html
-        image: ![](/images/ms.png){: style="height:300px;width:200px"}
+        image: 
       - item: cookbook.html
-        image: ![](/images/nk.png){: style="height:300px;width:200px"}
+        image: 
       - item: goaltracker.html
-        image: ![](/images/gt.png){: style="height:300px;width:200px"}
+        image: 
       - item: placeholder.html
-        image: ![](/images/LA1.jpg){: style="height:300px;width:200px"}
+        image:
