@@ -5,7 +5,7 @@ title: Nicks Portfolio
 author: Nicolas Ho
 description: > 
   test description here
-baseurl: ""
+baseurl: "https://nackho.github.io/"
 
 plugins:
   - jekyll-feed
